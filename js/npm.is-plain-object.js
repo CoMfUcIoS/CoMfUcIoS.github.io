@@ -1,2 +1,0 @@
-/*! For license information please see npm.is-plain-object.js.LICENSE */
-(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{"+0iv":function(t,o,n){"use strict";var r=n("qDJ8");function e(t){return!0===r(t)&&"[object Object]"===Object.prototype.toString.call(t)}t.exports=function(t){var o,n;return!1!==e(t)&&("function"==typeof(o=t.constructor)&&(!1!==e(n=o.prototype)&&!1!==n.hasOwnProperty("isPrototypeOf")))}}}]);
