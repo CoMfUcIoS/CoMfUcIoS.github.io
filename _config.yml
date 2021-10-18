@@ -18,9 +18,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: CoMfUcIoS                          # the main title
+title: Ioannis Karasavvaidis                          # the main title
 
-tagline: The Digital Monkey   # it will display as the sub-title
+tagline: CoMfUcIoS   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A Portfolio, about and a blog about anything

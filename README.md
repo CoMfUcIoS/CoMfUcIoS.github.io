@@ -38,8 +38,15 @@ Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#u
 ### Create new post
 
 ```
-thor jekyl:new "Post title" --tags "tag1 tag2" --category "category1"
+thor jekyl:new_post "Post title" --tags "tag1 tag2" --category "category1"
 ```
+
+### Create new tab
+
+```
+thor jekyl:new_tab "Tab title" --order 5
+```
+
 ## License
 
 This work is published under [MIT][mit] License.
