@@ -1,6 +1,6 @@
 ---
 title: History
-icon: fas fa-info-circle
+icon: fas fa-history
 order: 4
 ---
 
