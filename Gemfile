@@ -23,3 +23,4 @@ gem "webrick", "~> 1.7"
 
 gem 'thor'
 gem 'stringex'
+gem 'jemoji'
