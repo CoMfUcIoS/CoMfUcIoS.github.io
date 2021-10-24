@@ -19,7 +19,7 @@ class Jekyll < Thor
       post.puts "layout: post"
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
       post.puts "category: #{options[:category]}"
-      post.puts "tag: #{options[:tags]}"
+      post.puts "tag: [#{options[:tags]}]"
       post.puts " -"
       post.puts "---"
     end

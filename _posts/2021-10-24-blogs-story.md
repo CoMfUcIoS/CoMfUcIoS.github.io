@@ -1,7 +1,8 @@
 ---
-title: History
-icon: fas fa-history
-order: 4
+layout: post
+title: "Blog's story"
+category: news
+tag: ["news","blog","lifestyle"]
 ---
 
 Super, is story time. This blog started on ***digitalmonkey.gr*** domain with tutorials around computer stuff and more focused on Windows OS. Was meant to be read by Greeks so it was written in Greek language only.
