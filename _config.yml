@@ -18,17 +18,17 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ioannis Karasavvaidis                          # the main title
+title: '{!false}' # the main title
 
-tagline: CoMfUcIoS   # it will display as the sub-title
+tagline: 'It is funny because it is true' # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Portfolio, about and a blog about anything
-  that hits my head.... ideas or things that i have done
+  A blog with content with stuff that i have encounter or
+  have an opinion at .... ideas or problems that i have encountered
   and want to share .
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://CoMfUcIoS.github.io'
+url: 'https://notFalse.github.io'
 
 github:
   username: CoMfUcIoS             # change to your github username
@@ -39,7 +39,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ioannis Karasavvaidis
+  name: Ioannis karasavvaidis
   email: john@studio110.eu            # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -169,6 +169,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-      
+
 plugins:
   - jemoji
