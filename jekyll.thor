@@ -1,5 +1,6 @@
 require "stringex"
 class Jekyll < Thor
+  package_name "Jekyll"
   desc "new_post", "create a new post"
   method_option :editor, :default => "nvim"
   method_option :category, :default => "random"
@@ -20,7 +21,6 @@ class Jekyll < Thor
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
       post.puts "category: #{options[:category]}"
       post.puts "tag: [#{options[:tags]}]"
-      post.puts " -"
       post.puts "---"
     end
 
@@ -42,7 +42,6 @@ class Jekyll < Thor
       tab.puts "---"
       tab.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
       tab.puts "order: #{options[:order]}"
-      tab.puts " -"
       tab.puts "---"
     end
 
