@@ -1,11 +1,15 @@
 name: 'Automatic build'
 on:
-push:
-branches: - main
-paths-ignore: - .gitignore - README.md - LICENSE
+  push:
+    branches: 
+      - main
+    paths-ignore: 
+      - .gitignore 
+      - README.md 
+      - LICENSE
 
 jobs:
-continuous-delivery:
+  continuous-delivery:
 
     runs-on: ubuntu-latest
 
