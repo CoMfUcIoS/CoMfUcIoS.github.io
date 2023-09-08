@@ -4,8 +4,9 @@ description: 'The cloud is here to stay'
 pubDate: 'Mar 3 2022'
 heroImage: '/img/blog-placeholder-4.jpg'
 category: fancy words
-tag: ["lifestyle", "fancy words", "blog"]
+tag: ['lifestyle', 'fancy words', 'blog']
 ---
+
 ### The Cloud
 
 Fancy technology words! DA CLOUD !~!@~!1 but what exactly does that mean? What is Cloud? Where is it? Will it rain bytes? Brace yourselves, a storm is coming.
@@ -15,7 +16,6 @@ Some will say `it's someone else machine` and while this is accurate let's make 
 ### But Giannis .... how do I use da Cloud?
 
 Oh, you use it already. Yes, even right now! Every time you visit any website ( and when I say ANY ... I mean ANY ) you are being served by a machine ( virtual or physical ) in the cloud. That might be in a big farm of servers in a data centre ( those horrifying cold and dark rooms with blinky led lights ) or from a small machine like raspberry pi or Arduino in someone's barn/garage!!! Even my blog is `hosted` from a server that is owned/used by github.com! Those `machines` [insert Terminator theme music in the background] are up and running 24/7. And if they fail, others will replace waiting to take their place instantly (backup) so a blog or anything that they serve has minimum downtime. I am also writing this very blog post in the cloud on a virtual machine provided by Google.
-
 
 ### That was it?
 

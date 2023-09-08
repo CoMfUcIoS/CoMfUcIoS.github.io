@@ -4,10 +4,10 @@ description: 'Why I started this blog'
 pubDate: 'Oct 24 2021'
 heroImage: '/img/blog-placeholder-3.jpg'
 category: news
-tag: ['blog', 'news','lifestory']
+tag: ['blog', 'news', 'lifestory']
 ---
 
-Super, is storytime. This blog started on ***digitalmonkey.gr*** domain with tutorials around computer stuff and more focused on Windows OS. Was meant to be read by Greeks so it was written in the Greek language only.
+Super, is storytime. This blog started on **_digitalmonkey.gr_** domain with tutorials around computer stuff and more focused on Windows OS. Was meant to be read by Greeks so it was written in the Greek language only.
 
 Just checked [WaybackMachine](https://archive.org) (yeah there is a site that archives all sites) and it has 4 snapshots of that old blog (yeah only 4 unfortunately) so we will assume that blog started in the year of 2007 [Snapshot](https://web.archive.org/web/20071027092230/http://www.digitalmonkey.gr/). I might have started it way before that but because of my bad memory will stay with the facts :blush:
 )

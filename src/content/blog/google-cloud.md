@@ -4,12 +4,12 @@ description: 'Google Cloud Shell, my new home'
 pubDate: 'Mar 18 2022'
 heroImage: '/img/blog-placeholder-2.jpg'
 category: development
-tag: ["google", "development", "cloud", "remote", "mobile"]
+tag: ['google', 'development', 'cloud', 'remote', 'mobile']
 ---
 
 ### Google Cloud what ???
 
-Shell, well hello there! Shell as `the command-line interpreter`. Yeah,  a shell is a program that processes commands and outputs the results! You can interact with a shell through the server console! But if your server is in your basement without a keyboard and a monitor??? Then you use a terminal to emulate the console which runs the shell! Confused already? Simples... Shell is a layer that sits on top of a kernel and to interact with it we need to be physically at the console! If we aren't, we can connect remotely to it by using a terminal ( also known as terminal emulator ) which emulates the console where you interact with the shell. Some people say the word terminal and get away with it :smiley:. Now if you wanna know what the word `cloud` is, I have already written a blog post of that fancy word go check it out :smiley: [The `Cloud` is upon us](/posts/the-cloud-is-upon-us/). I don't think I need to explain to you what google is :joy:
+Shell, well hello there! Shell as `the command-line interpreter`. Yeah, a shell is a program that processes commands and outputs the results! You can interact with a shell through the server console! But if your server is in your basement without a keyboard and a monitor??? Then you use a terminal to emulate the console which runs the shell! Confused already? Simples... Shell is a layer that sits on top of a kernel and to interact with it we need to be physically at the console! If we aren't, we can connect remotely to it by using a terminal ( also known as terminal emulator ) which emulates the console where you interact with the shell. Some people say the word terminal and get away with it :smiley:. Now if you wanna know what the word `cloud` is, I have already written a blog post of that fancy word go check it out :smiley: [The `Cloud` is upon us](/posts/the-cloud-is-upon-us/). I don't think I need to explain to you what google is :joy:
 
 ### What is Google Cloud Shell tho?
 
@@ -17,7 +17,7 @@ I thought you will never ask :stuck_out_tongue:. I will use what google says abo
 
 ### How can I use it?
 
-If you are a developer you already using the terminal and your favourite IDE to do almost everything, right? Those two are provided by GCS for free and are accessible from your browser. FROM ANYWHERE! If you don't like the provided IDE, you can also use neovim/vim with your configuration and plugins ( yay ) without any problems directly from the terminal ( i might write another post on how to install neovim on GCS). And that freedom doesn't end there... you can also download the mobile apps and you can do the same thing while on the go. Of course, you don't need the app, you can still use your favourite mobile browser :wink:. Goes without saying that you can do everything that you can do on a physical machine you have at home running Debian. I am currently using it right now to write this very blog post ( and the previous posts )! All I needed to have was a google account ( ehm its obvious right?).
+If you are a developer you already using the terminal and your favourite IDE to do almost everything, right? Those two are provided by GCS for free and are accessible from your browser. FROM ANYWHERE! If you don't like the provided IDE, you can also use neovim/vim with your configuration and plugins ( yay ) without any problems directly from the terminal ( i might write another post on how to install neovim on GCS). And that freedom doesn't end there... you can also download the mobile apps and you can do the same thing while on the go. Of course, you don't need the app, you can still use your favourite mobile browser :wink:. Goes without saying that you can do everything that you can do on a physical machine you have at home running Debian. I am currently using it right now to write this very blog post ( and the previous posts )! All I needed was a google account ( ehm its obvious right?).
 
 ### But is it fast?
 
@@ -39,7 +39,6 @@ Oh sorry about that, let's fix it... All you need is a google account (doh) and 
 ### Wait is that git and Jekyll?
 
 Yes exactly what I do now. I cloned my blog repository in GCS and started writing this post. After I finish it I will push it to my repo from GCS and let my Github action do the rest to publish it. As I said before, you can use whatever app is available to Debian aptitude repositories and GCS comes with a lot of development libraries and tools pre-installed.
-
 
 ### New home you said?
 
