@@ -31,7 +31,7 @@ GEM
     fiber-local (1.0.0)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
-    google-protobuf (3.24.2)
+    google-protobuf (3.24.3)
     hashery (2.1.2)
     html-pipeline (2.14.3)
       activesupport (>= 2)
@@ -78,7 +78,7 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-chirpy (6.1.0)
+    jekyll-theme-chirpy (6.2.2)
       jekyll (~> 4.3)
       jekyll-archives (~> 2.2)
       jekyll-include-cache (~> 0.2)
@@ -151,7 +151,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 5.0)
-  jekyll-theme-chirpy (~> 6.1)
+  jekyll-theme-chirpy (~> 6.2)
   jemoji
   stringex
   thor
